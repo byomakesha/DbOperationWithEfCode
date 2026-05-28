@@ -7,11 +7,6 @@
 /DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/bin/Debug/net8.0
 /DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/Migrations
 /DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/appsettings.json
-/DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/Data/AppDbContext.cs
-/DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/Data/Book.cs
-/DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/Data/BookPrice.cs
-/DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/Data/CurrencyType.cs
-/DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/Data/Language.cs
 /DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/obj/Debug/net8.0/EndpointInfo
 /DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/obj/Debug/net8.0/ref
 /DbOperationsWithEFCoreApp/DbOperationsWithEFCoreApp/obj/Debug/net8.0/refint
